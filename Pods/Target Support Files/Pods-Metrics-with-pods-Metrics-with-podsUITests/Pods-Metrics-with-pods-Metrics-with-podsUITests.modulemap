@@ -1,0 +1,6 @@
+framework module Pods_Metrics_with_pods_Metrics_with_podsUITests {
+  umbrella header "Pods-Metrics-with-pods-Metrics-with-podsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
